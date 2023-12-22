@@ -24,7 +24,6 @@ body{
     display: flex;
     margin-top: 10%;
     border-radius: 10px;
-    border: 1px solid black;
 }
 .container > div{
     width: 17em;
